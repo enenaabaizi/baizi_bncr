@@ -1,0 +1,27 @@
+{
+  "annotation0": "该文件由系统自动生成.",
+  "annotation1": "当config.json中pluginsPublishingMode===\"git\"时且有public插件时生成",
+  "annotation2": "该文件用于插件市场索引,当更新插件至git时,请将该文件同步更新至git",
+  "RGwwT4TG/Q2nLlk+pKULz90x9Dk=": {
+    "type": "github",
+    "name": "bz_天气查询",
+    "author": "嗯嗯啊啊柏子",
+    "team": "柏子",
+    "version": "1.0.0",
+    "description": "自用天气查询插件",
+    "classification": [
+      "工具"
+    ],
+    "filename": "bz_天气查询.js",
+    "fileDir": "/plugins/柏子/bz_天气查询.js",
+    "systemVersionRange": "",
+    "isAdapter": false,
+    "isCron": false,
+    "isAuthentication": false,
+    "isEncPlugin": true,
+    "isMod": false,
+    "isService": false,
+    "id": "RGwwT4TG/Q2nLlk+pKULz90x9Dk=",
+    "isChatPlugin": true
+  }
+}
