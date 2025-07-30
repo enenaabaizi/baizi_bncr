@@ -8,7 +8,7 @@
     "author": "嗯嗯啊啊柏子",
     "team": "柏子",
     "version": "1.0.0",
-    "description": "自用天气查询插件",
+    "description": "基于和风天气API天气查询插件",
     "classification": [
       "工具"
     ],
